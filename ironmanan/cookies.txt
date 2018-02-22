@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mananshukla97.wixsite.com	TRUE	/mysite	FALSE	1999999999	svSession	bf118c25d74dec849d9a0f2d80ede183644459c2b96a5f9c218b88d4c2652fe09a24db6beb539a23c1031df8e23faf341e60994d53964e647acf431e4f798bcdfc6a59ae7d3be1fed3bcc65c995006bac44862a71a99b7ea561325e1c4ee88cc
+mananshukla97.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1519282976|bTSsLvYaBp6A
+.wix.com	TRUE	/	FALSE	1999999999	_wix_browser_sess	0039afee-1bff-434c-b536-b561c89469f3
+.wix.com	TRUE	/	FALSE	1999999999	userType	ANONYMOUS
+.wix.com	TRUE	/	FALSE	1999999999	_wixUIDX	null-user-id
+mananshukla97.wixsite.com	TRUE	/	FALSE	1999999999	hs	-230272446
+
